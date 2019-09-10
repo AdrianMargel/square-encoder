@@ -8,7 +8,7 @@
     Right Click - erase shape
     SPACE - toggle between the display of individual blocks or just the whole shape
   
-  written by Adrian Margel, Spring 2016
+  written by Adrian Margel, Spring 2017
 */
 
 class Block {
